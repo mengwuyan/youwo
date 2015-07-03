@@ -9,6 +9,14 @@
                 <array>
                     <dict>
                         <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://121.41.117.121:666/files/youwo/icon.png</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
                         <string>http://121.41.117.121:666/files/youwo/YouWo.ipa</string>
